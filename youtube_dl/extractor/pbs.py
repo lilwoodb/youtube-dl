@@ -97,7 +97,7 @@ class PBSIE(InfoExtractor):
         (r'video\.networkknowledge\.tv', 'Network Knowledge - WSEC/Springfield (WSEC)'),  # http://www.wsec.tv
         (r'video\.wttw\.com', 'WTTW11 (WTTW)'),  # http://www.wttw.com/
         # (r'wtvp\.org', 'WTVP & WTVP.org, Public Media for Central Illinois (WTVP)'),  # http://www.wtvp.org/
-        (r'video\.iptv\.org', 'Iowa Public Television/IPTV (KDIN)'),  # http://www.iptv.org/
+        (r'video\.iowapbs\.org', 'Iowa Public Television/Iowa PBS (KDIN)'),  # http://www.iowapbs.org/
         (r'video\.ninenet\.org', 'Nine Network (KETC)'),  # http://www.ninenet.org
         (r'video\.wfwa\.org', 'PBS39 Fort Wayne (WFWA)'),  # http://wfwa.org/
         (r'video\.wfyi\.org', 'WFYI Indianapolis (WFYI)'),  # http://www.wfyi.org
